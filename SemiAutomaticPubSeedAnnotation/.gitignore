@@ -1,0 +1,16 @@
+Figures
+planification
+exp
+doc
+conf
+src/Bayesian
+*.pyc
+*.pkl
+venv/*
+reports/*
+results
+bin
+exp
+*.pdf
+Decisiontrees
+DecisionTreeClassifier.py

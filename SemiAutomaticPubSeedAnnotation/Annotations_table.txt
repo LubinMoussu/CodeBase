@@ -1,0 +1,98 @@
+Peg	Annotations
+SdhA	Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1) @ Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+SdhB	Succinate dehydrogenase iron-sulfur subunit (EC 1.3.5.1) @ Fumarate reductase iron-sulfur subunit (EC 1.3.5.4)
+SdhC	Succinate dehydrogenase cytochrome b-556 subunit
+SdhC1	Succinate dehydrogenase cytochrome b558 subunit
+pSdhC	Succinate dehydrogenase cytochrome b558 subunit
+SdhC2	putative succinate dehydrogenase [membrane anchor subunit] (succinic dehydrogenase)
+SdhD	Succinate dehydrogenase hydrophobic membrane anchor protein
+FrdA	Fumarate reductase flavoprotein subunit (EC 1.3.5.4)
+FrdB	Fumarate reductase iron-sulfur protein (EC 1.3.5.4)
+FrdC	Fumarate reductase subunit C
+FrdD	Fumarate reductase subunit D
+FrdC1	Fumarate reductase cytochrome b subunit
+NadB	L-aspartate oxidase (EC 1.4.3.16)
+TfrA	"Fumarate reductase (CoM/CoB), subunit TfrA (EC 1.3.4.1)"
+TfrB	"Fumarate reductase (CoM/CoB), subunit TfrB (EC 1.3.4.1)"
+MfrA	8-methylmenaquinol:fumarate reductase flavoprotein subunit (EC 1.3.5.-)
+MfrB	8-methylmenaquinol:fumarate reductase iron-sulfur subunit (EC 1.3.5.-)
+MfrC	8-methylmenaquinol:fumarate reductase membrane anchor subunit (EC 1.3.5.-)
+FrdA3	"FMN-binding domain / Fumarate reductase flavoprotein subunit (EC 1.3.5.4), cytoplasmic"
+HdrB	CoB--CoM heterodisulfide reductase subunit B (EC 1.8.98.1)
+HdrC	CoB--CoM heterodisulfide reductase subunit C (EC 1.8.98.1)
+HdrA	CoB--CoM heterodisulfide reductase subunit A (EC 1.8.98.1)
+HdrD	CoB--CoM heterodisulfide reductase subunit D (EC 1.8.98.1)
+pFccA	"Fumarate reductase tetraheme cytochrome-c, FccA, periplasmic"
+Ifc3	"Fumarate reductase tetraheme cytochrome-c, FccA, periplasmic @ Periplasmic tetrahaem Fe(3+)-induced flavocytochrome c(3)"
+NfrdA	NADH-dependent fumarate reductase flavoprotein subunit (EC 1.3.1.6)
+NfrdB	NADH-dependent fumarate reductase iron-sulfur subunit (EC 1.3.1.6)
+NfrdC	NADH-dependent fumarate reductase subunit C (EC 1.3.1.6)
+NfrdD	NADH-dependent fumarate reductase NAD-binding subunit (EC 1.3.1.6)
+NfrdE	NADH-dependent fumarate reductase iron-sulfur subunit E (EC 1.3.1.6)
+NfrdF	NADH-dependent fumarate reductase cytochrome b subunit (EC 1.3.1.6)
+	
+DsrA	"Dissimilatory sulfite reductase, alpha subunit (EC 1.8.99.5)"
+DsrB	"Dissimilatory sulfite reductase, beta subunit (EC 1.8.99.5)"
+DsrD	Dissimilatory sulfite reductase clustered protein DsrD
+Fsr	Sulfite reductase (coenzyme F420) (EC 1.8.98.3)
+AsrA	Anaerobic sulfite reductase subunit A
+AsrB	Anaerobic sulfite reductase subunit B
+AsrC	Anaerobic sulfite reductase subunit C
+	
+CysJ	Sulfite reductase [NADPH] flavoprotein alpha-component (EC 1.8.1.2)
+CysI	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2)
+	
+MqFrdC	Fumarate reductase (menaquinone) cytochrome b subunit (EC 1.3.5.4) @ Succinate dehydrogenase (menaquinone) cytochrome b subunit (EC 1.3.5.1)
+MqFrdA	Fumarate reductase (menaquinone) flavoprotein subunit (EC 1.3.5.4) @ Succinate dehydrogenase (menaquinone) flavoprotein subunit (EC 1.3.5.1)
+MqFrdB	Fumarate reductase (menaquinone) iron-sulfur (EC 1.3.5.4) @ Succinate dehydrogenase (menaquinone) iron-sulfur (EC 1.3.5.1)
+	
+NosZ	Nitrous-oxide reductase (EC 1.7.2.4)
+	
+GlpA	Anaerobic glycerol-3-phosphate dehydrogenase subunit A (EC 1.1.5.3)
+GlpB	Anaerobic glycerol-3-phosphate dehydrogenase subunit B (EC 1.1.5.3)
+GlpC	Anaerobic glycerol-3-phosphate dehydrogenase subunit C (EC 1.1.5.3)
+GlpD	Aerobic glycerol-3-phosphate dehydrogenase (EC 1.1.5.3)
+	
+HybO	Ni/Fe-hydrogenase 2 small subunit HybO (EC 1.12.99.6)
+HybA	Hydrogenase-2 operon protein HybA
+HybB	Ni/Fe-hydrogenase 2 b-type cytochrome subunit HybB
+HybC	Ni/Fe-hydrogenase 2 large subunit HybC (EC 1.12.99.6)
+HybD	Hydrogenase maturation protease HybD
+HybE	Hydrogenase-2 operon protein HybE
+HybF	[NiFe] hydrogenase nickel incorporation protein HybF
+HybG	[NiFe] hydrogenase metallocenter assembly protein HybG
+	
+HyaA	"Uptake [NiFe] hydrogenase, small subunit HyaA (EC 1.12.99.6)"
+HyaB	"Uptake [NiFe] hydrogenase, large subunit HyaB (EC 1.12.99.6)"
+HyaC	"Uptake [NiFe] hydrogenase, cytochrome b subunit HyaC"
+HyaD	Uptake [NiFe] hydrogenase maturation protease HyaD
+HyaE	Uptake [NiFe] hydrogenase maturation factor HyaE
+HyaF	Uptake [NiFe] hydrogenase maturation maturation factor HyaF / Rubredoxin HupI
+HyaF	Uptake [NiFe] hydrogenase maturation maturation factor HyaF
+	
+HoxK	Quinone-reactive Ni/Fe-hydrogenase small chain (EC 1.12.5.1)
+HoxB	Quinone-reactive Ni/Fe-hydrogenase large chain (EC 1.12.5.1)
+HoxC	"Quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit"
+	
+HoxE	"NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit epsilon (HoxE) (EC 1.12.1.2)"
+HoxF	"NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit alpha (HoxF) (EC 1.12.1.2)"
+HoxU	"NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit gamma (HoxU) (EC 1.12.1.2)"
+HoxY	"NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit delta (HoxY) (EC 1.12.1.2)"
+HoxH	"NAD-reducing [NiFe] hydrogenase HoxFUYH(E), subunit beta (HoxH) (EC 1.12.1.2)"
+HoxW	[NiFe] hydrogenase HoxFUYH(E) maturation factor HoxW
+	
+Hyd1A	Quinone-reactive Ni/Fe-hydrogenase large chain (EC 1.12.5.1)
+Hyd1B	Quinone-reactive Ni/Fe-hydrogenase small chain (EC 1.12.5.1)
+Hyd1C	"Quinone-reactive Ni/Fe hydrogenase, cytochrome b subunit"
+Hyd1D	Hydrogenase maturation protease (EC 3.4.24.-)
+Hyd1E	Protein hydE
+	
+Hyd2A	Electron-bifurcating [FeFe]-hydrogenase subunit A (hydrogenase)
+Hyd2B	"Electron-bifurcating [FeFe]-hydrogenase subunit B (NAD+ reductase, ferredoxin reductase)"
+Hyd2C	Electron-bifurcating [FeFe]-hydrogenase subunit C (2Fe2S protein)
+Hyd2D	Electron-bifurcating [FeFe]-hydrogenase subunit D
+Hyd2E	HydE protein clustered with electron-bifurcating [FeFe]-hydrogenase (possible two-component regulator histidine kinase)
+	
+HynA	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, large subunit (EC 1.12.2.1) @ selenocysteine-containing"
+HynB	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, small subunit (EC 1.12.2.1)"
+HynC	Hydrogenase maturation protease (EC 3.4.24.-)

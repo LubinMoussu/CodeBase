@@ -1,0 +1,19 @@
+	End	Ev	Fid	Function	Gap	Size	Start	strand	Operon	Cluster	Peg
+0	1215541	['11191224']	fig|525146.4.peg.1230	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, small subunit (EC 1.12.2.1)"	11	948	1216488	-	Hyn	1	HynB
+1	1213853	['11191224']	fig|525146.4.peg.1229	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, large subunit (EC 1.12.2.1) @ selenocysteine-containing"	19	1677	1215529	-	Hyn	1	HynA
+2	1213288	[]	fig|525146.4.peg.1228	Hydrogenase maturation protease (EC 3.4.24.-)	519	546	1213833	-	Hyn	1	HynC
+3	309580	['3546297']	fig|883.4.peg.282	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, small subunit (EC 1.12.2.1)"	58	954	310533	-	Hyn	2	HynB
+4	307818	['3546297']	fig|883.4.peg.281	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, large subunit (EC 1.12.2.1)"	334	1704	309521	-	Hyn	2	HynA
+5	306977	[]	fig|883.4.peg.280	Hydrogenase maturation protease	62	507	307483	-	Hyn	2	HynC
+6	2372	['9751716']	fig|596151.4.peg.4059	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, small subunit (EC 1.12.2.1)"	71	945	3316	-	Hyn	3	HynB
+7	606	['9751716']	fig|596151.4.peg.4058	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, large subunit (EC 1.12.2.1)"	67	1695	2300	-	Hyn	3	HynA
+8	38	['9751716']	fig|596151.4.peg.4057	Hydrogenase maturation protease (EC 3.4.24.-)	 	501	538	-	Hyn	3	HynC
+9	1995596	"['9367885', '19581361']"	fig|882.5.peg.1764	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, small subunit (EC 1.12.2.1)"	-15	780	1994817	+	Hyn	4	HynB
+10	1997348	"['9367885', '19581361']"	fig|882.5.peg.1765	"Periplasmic HynAB-type cytochrome-c3 [NiFe] hydrogenase, large subunit (EC 1.12.2.1)"	51	1701	1995648	+	Hyn	4	HynA
+11	1998214	['19581361']	fig|882.5.peg.1766	Hydrogenase maturation protease (EC 3.4.24.-)	368	498	1997717	+	Hyn	4	HynC
+12	180661	['17150028']	fig|313612.3.peg.411	"Uptake [NiFe] hydrogenase, large subunit HyaB (EC 1.12.99.6)"	88	1614	182274	-	Hya	1	HyaB
+13	182393	['17150028']	fig|313612.3.peg.412	"Uptake [NiFe] hydrogenase, small subunit HyaA (EC 1.12.99.6)"	118	915	183307	-	Hya	1	HyaA
+14	134385	['22366414']	fig|243231.5.peg.120	Uptake [NiFe] hydrogenase maturation protease HyaD	157	435	134819	-	Hya	2	HyaD
+15	134859	['22366414']	fig|243231.5.peg.121	"Uptake [NiFe] hydrogenase, cytochrome b subunit HyaC"	39	669	135527	-	Hya	2	HyaC
+16	135537	['22366414']	fig|243231.5.peg.122	"Uptake [NiFe] hydrogenase, large subunit HyaB (EC 1.12.99.6)"	9	1701	137237	-	Hya	2	HyaB
+17	137241	['22366414']	fig|243231.5.peg.123	"Uptake [NiFe] hydrogenase, small subunit HyaA (EC 1.12.99.6)"	3	1116	138356	-	Hya	2	HyaA
